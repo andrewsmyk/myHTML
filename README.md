@@ -4,4 +4,4 @@ Testing command line and GIT client
 
 This was made in Notepad.
 
-Trying to make changes.
+Remember to save without the .txt extention
